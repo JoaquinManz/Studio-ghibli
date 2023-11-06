@@ -1,7 +1,0 @@
-.card-container 
-    bg:#2b324e
-    box-shadow:#04a4fc
-
-body bg: #1c4c84
-
-color de letra #ed2da
